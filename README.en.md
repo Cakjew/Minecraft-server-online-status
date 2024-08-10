@@ -1,37 +1,12 @@
 # Server online status
 
-#### Description
-Server online status
-服务器在线状态
+#### Introduction
+First of all, the software always has unknown bugs, it works, and sometimes it won't open, which is usually caused by your network, hang a proxy
+
+Then, as long as I can use it, I will never fix a Bug, or you will fix it for me
+
+Finally, there are unexpected "surprises" in the program.
+
 
 #### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+This software is compiled using easy language + Fine easy module
